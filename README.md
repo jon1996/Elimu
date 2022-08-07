@@ -1,5 +1,6 @@
-# Elimu
-Education App Elimu
-Elimu, it is a PC and Android based application, it is a multi-choice game, where the user will have to answer the question, and by answering the most questions he accumulates the point, in deleted I integrated a system learning that will be available in the full version of the latter, the final version of Elimu will be a tool that will allow each user to learn in a slightly funny way, and its will be for all ages, whether its children and adults too.
-in the ElimuV1 folder you will find a PC and another Android folder which contain the two versions for these two platforms.
-The IOS version will be accessible in the final version of the application.
+# Dog vs Cat
+Dogs vs. Cats Classification using CNN
+Dog_Cat dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat. Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks.
+While the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional deep learning neural networks for image classification from scratch.
+
+This includes how to develop a robust test harness for estimating the performance of the model, how to explore improvements to the model, and how to save the model and later load it to make predictions on new data.
